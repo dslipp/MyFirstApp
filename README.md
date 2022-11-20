@@ -1,3 +1,3 @@
 # MyFirstApp
-A testing project
+A testing project. 
 I have no idea what I'm doing.
